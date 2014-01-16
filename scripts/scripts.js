@@ -1,4 +1,4 @@
-
+<script src="./libraries/amplify-1.1.2/amplify.js></script>
 
 var priorganize = (function(window, document, $){
 
